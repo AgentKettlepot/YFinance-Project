@@ -1,5 +1,5 @@
 # YFinance Project
-## Keith Yao
+
 ### July 2021
 A Python program that uses the YFinance API Library with TKinter, Pandas, NumPy, and Plotly to display graphs for different stocks. Compiles important data from the API and displays/stores the data in a .cvs file.
 
